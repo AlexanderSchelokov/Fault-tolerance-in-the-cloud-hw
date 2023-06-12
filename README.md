@@ -18,7 +18,7 @@
 
 1. Terraform Playbook.
 Ч.1
-![image](https://github.com/AlexanderSchelokov/Fault-tolerance-in-the-cloud-hw/assets/121572590/91385b12-8ac0-4834-84d6-87333f79af7d)
+![image](https://github.com/AlexanderSchelokov/Fault-tolerance-in-the-cloud-hw/assets/121572590/94eeca32-d752-405d-b5ce-e6b2d1e95016)
 Ч.2
 ![image](https://github.com/AlexanderSchelokov/Fault-tolerance-in-the-cloud-hw/assets/121572590/67a0dfd6-4e6b-4e13-98e8-2ac85af1bff5)
 
